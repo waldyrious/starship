@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.1](https://github.com/starship/starship/compare/v1.17.0...v1.17.1) (2024-01-01)
+
+
+### Bug Fixes
+
+* v1.17.0 post-release fix-ups ([#5660](https://github.com/starship/starship/issues/5660)) ([89dc192](https://github.com/starship/starship/commit/89dc19214bb671fe50a8f1be79a4594e7998ddea))
+
 ## [1.17.0](https://github.com/starship/starship/compare/v1.16.0...v1.17.0) (2023-12-28)
 
 
